@@ -42,5 +42,7 @@ PositiveNumbers(arr);
 Console.Write($"количество значений больше 0 = ");
 PrintArray(arr);
 
+// С выводом проблемка
+
 
     
